@@ -1,0 +1,23 @@
+{
+  "name": "crm_e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright test && allure generate ./allure-results --clean && allure open",
+    "report:generate": "allure generate ./allure-results --clean",
+    "report:open": "allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.19",
+    "allure-playwright": "^3.2.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0"
+  }
+}
