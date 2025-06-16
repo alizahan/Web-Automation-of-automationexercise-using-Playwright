@@ -2,6 +2,14 @@
 
 This repository contains end-to-end (E2E) tests for the Automation Exercise website using Playwright, a modern end-to-end testing framework.
 
+## Output Video 
+### Video 1 - Running Test in Command Line
+https://github.com/user-attachments/assets/4ad28ca2-4c14-46fd-936d-8e70a637e321
+### Video 2 - Showing Report
+https://github.com/user-attachments/assets/434dd9f2-8d19-4119-b8cd-0c4e98507b42
+### Video 3 - Browser View 
+https://github.com/user-attachments/assets/2fcbeeb8-a4d4-4674-ad68-f77f0487a20d
+
 ## 🚀 Features
 
 - Cross-browser testing (Chromium, Firefox, and WebKit)
